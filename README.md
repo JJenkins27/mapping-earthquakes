@@ -17,10 +17,10 @@ Interactive map created which details earthquake data within the last 7 days. In
 Below are some ways in which the users can interact with the map:
 
 #### *Dark Map with layers: all earthquakes and tectonic plates*
-![dark_all_earthquakes_tectonic_plates](https://user-images.githubusercontent.com/108373151/193431313-4ed781a2-9213-418e-b850-1875f601df09.jpg)
+![dark_all_earthquakes_tectonic_plates](https://user-images.githubusercontent.com/108373151/193431838-92021c22-0f7a-47a0-bdaa-325af6e1e43a.jpg)
 
 #### *Satellite Map with layers: major earthquakes M4.5+*
-![satellite_major_earthquakes](https://user-images.githubusercontent.com/108373151/193431316-aa4621f8-bf26-4b43-b254-372aeb4d3576.jpg)
+![satellite_major_earthquakes](https://user-images.githubusercontent.com/108373151/193431837-e6c35a76-d2f1-42f9-877f-f9d7841d0f24.jpg)
 
-#### *Sample Zoomed Map with layers: all earthquakes and tectonic plates with clickable popup*
+#### *Sample Zoomed Map with layers: all earthquakes and tectonic plates*
 ![zoomed_all_earthquakes](https://user-images.githubusercontent.com/108373151/193431359-1b7d32b7-9ea3-479d-bb39-a327f39f715f.jpg)
